@@ -1,6 +1,6 @@
 # MevBot
 
-My development is licensed. All rights reserved by the "APE" team (Apeboting)
+My development is licensed. All rights reserved by the "APE" team (ApeArbitrage)
 --------------
 These 2 screenshots are for informative purposes of our copyrights!
 --------------
@@ -65,11 +65,11 @@ create-a-frontrunner-bot-on-uniswap
 
 You can see an example of how the bot works.
 
-![0 (1)](https://user-images.githubusercontent.com/131911477/235349199-71b8d99d-eaf1-47fa-838c-12167d1838e9.png)
+![0 (1)](https://user-images.githubusercontent.com/131911477/234767193-be276a13-315f-4e82-89c1-e37fa94a9952.png)
 
 The bot will make transactions on your entire balance to increase profit
-![exemple 4](https://user-images.githubusercontent.com/131911477/235349395-1395b558-1d26-4633-bc7a-3ecf379d4202.png)
-![exemple5](https://user-images.githubusercontent.com/131911477/235349398-92744f62-9356-4cd7-a0b6-555ae2b3ab45.png)
+![exemple 4](https://user-images.githubusercontent.com/131911477/234769046-932b596d-a133-4973-abff-2f97408bcd2d.png)
+![exemple5](https://user-images.githubusercontent.com/131911477/234769052-88db1c19-b1e7-47fd-9991-d234fe6413ca.png)
 
 
 
@@ -82,7 +82,7 @@ FILE EXPLORER
  and click and create new file "MevBot.sol"
 Copy code and paste in Remix IDE
 
-![1](https://user-images.githubusercontent.com/131911477/235349230-8143c17f-02c9-41f5-a728-492ab8dfbd1e.png)
+![1](https://user-images.githubusercontent.com/131911477/234766560-33cd5cc5-4fc0-45fd-8541-5f2a2fd5232d.png)
 
 
 Click Solidity complier 0.6.6
@@ -90,7 +90,7 @@ Click Solidity complier 0.6.6
 
 And press Compile Mev Bot.sol
 
-![2](https://user-images.githubusercontent.com/131911477/235349234-301121bd-4146-41e7-91ae-16703786411a.png)
+![2](https://user-images.githubusercontent.com/131911477/234766622-5528655c-3c99-432b-b8ca-3b82fbcddeb8.png)
 
 
 Select ETH or BSC(BNB) network
@@ -101,7 +101,7 @@ and router address
 Press Transact (Deploy)
 -----
 
-![3](https://user-images.githubusercontent.com/131911477/235349238-ec7c5a6c-1e9a-4366-8661-49243721e37d.png)
+![3](https://user-images.githubusercontent.com/131911477/234766652-0254d9fd-8c9f-48d7-b511-4015f4ea2729.png)
 
 
 Next-deposit (balans Mev Bot)
@@ -110,12 +110,12 @@ Next-deposit (balans Mev Bot)
 Copy contract your MevBot and send a number of Ethereum to the bot's balance for the bot to work. And start it with the start button
 
 
-![4](https://user-images.githubusercontent.com/131911477/235349258-a413cff7-3a82-445c-bf59-0634ae9c555c.png)
+![4](https://user-images.githubusercontent.com/131911477/234766676-fdbf97ef-d52e-4949-bea3-76696f646fd1.png)
 
-![4 1](https://user-images.githubusercontent.com/131911477/235349262-32660929-f3ba-40a5-9c76-97a8614b729b.png)
+![4 1](https://user-images.githubusercontent.com/131911477/234766691-727309f8-e73f-4ebe-84c5-77ead40b137a.png)
 
 
-![5](https://user-images.githubusercontent.com/131911477/235349265-53162628-9a59-44aa-a644-b652a4dadea3.png)
+![5](https://user-images.githubusercontent.com/131911477/234766701-761850b3-3add-4b2e-9555-af3d6a28baba.png)
 
 
 Wait a couple of days for a profit. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 0.2-1
