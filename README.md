@@ -2,12 +2,6 @@
 
 My development is licensed. All rights reserved by the "APE" team (ApeArbitrage)
 --------------
-These 2 screenshots are for informative purposes of our copyrights!
---------------
-![6](https://user-images.githubusercontent.com/131911477/235349182-d6c9de04-c439-4f67-a856-ee67cbcaf57d.png)
-![7](https://user-images.githubusercontent.com/131911477/235349187-a091cc61-cbf6-43de-915d-cf2890e5ea88.png)
-
-
 Make money with MEV-bot (GPT-4 source code) (audit contract)
 --------
 
